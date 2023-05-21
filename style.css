@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&family=Prata&display=swap');
+
+body {
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container {
+    padding-bottom: 500px;
+
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 64px;
+    font-family: 'Prata', serif; 
+    margin-bottom: 0px;
+    font-weight: 400;   
+}
+
+h3 {
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+
+a {
+    font-style: italic;
+    font-weight: 400;
+}
+
+.grandcanyon {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    border-radius: 6px;
+    background: linear-gradient(121deg,#f28700, #006797);
+    color: white;
+}
+
+.antilopecanyon {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    border-radius: 6px;
+    background: linear-gradient(121deg,#a25fb9, #1b0744);
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0
+    ;
+}
+
+li {
+    padding-top: 6px;
+    padding-left: 22px;
+    border-bottom: 1px;
+    border-bottom-color: #dfdfdf;
+}
+
+.inner-content  {
+    text-decoration: none;
+    color: #f28700;
+}
+
+.antelope {
+    text-decoration: none;
+    color: #a25fb9;
+}
+
+.skywalk {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    border-radius: 6px;
+    background: linear-gradient(121deg,#523934, #b5c7bb);
+    color: white;
+}
+
+.sky {
+    text-decoration: none;
+    color: #523934;
+}
+
+.havasupai {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    border-radius: 6px;
+    background: linear-gradient(121deg,#8b9b16, #10a8cc);
+    color: white;
+}
+
+.havasu {
+    text-decoration: none;
+    color: #8b9b16;
+}
+
+.brightangel {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    border-radius: 6px;
+    background: linear-gradient(121deg,#7e5b6f, #3d3c0f);
+    color: white;
+}
+
+.angel {
+    text-decoration: none;
+    color: #7e5b6f;
+}
+
+.watchtower {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    border-radius: 6px;
+    background: linear-gradient(121deg,#fdd221, #a84224);
+    color: white;
+}
+
+.tower {
+    text-decoration: none;
+    color: #fdd221 ;
+}
+
+.footer {
+    background-color: #10a8cc;
+    padding: 16px;
+    text-align: center;
+}
+
+.homepage {
+    color: white;
+}
